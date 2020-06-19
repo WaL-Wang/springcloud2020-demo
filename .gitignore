@@ -1,0 +1,6 @@
+# Project exclude paths
+/cloud-commons/target/
+/cloud-provide-payment8001/target/
+/cloud-provide-payment8002/target/
+/spring-cloud-eureka7001/target/
+/spring-cloud-eureka7002/target/
